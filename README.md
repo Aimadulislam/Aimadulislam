@@ -1,178 +1,270 @@
 <div align="center">
 
-# Hi there, I'm Aimad ul Islam 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aimad ul Islam
 
-### 🛡️ Aspiring Cybersecurity Associate | Linux Administrator | Ethical Hacking Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Associate;Linux+System+Administrator;SOC+%7C+Blue+Team;Ethical+Hacker;Penetration+Tester;Security+Researcher;Python+Developer;Always+Learning..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Linux+System+Administrator;SOC+%26+Blue+Team+Enthusiast;Ethical+Hacker+in+Training;Python+%7C+Bash+%7C+Networking" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=Aimadulislam&label=Visitors&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# ⚡ SYSTEM STATUS
 
-I'm an aspiring **Cybersecurity Associate** passionate about protecting systems, understanding how attacks work, and building secure infrastructures.
+```yaml
+Name: Aimad-ul-Islam
+Role: Cybersecurity Associate
+Location: Pakistan 🇵🇰
+Focus:
+  - Cybersecurity
+  - Linux Administration
+  - Ethical Hacking
+  - Defensive Security
+  - SOC Operations
+  - Penetration Testing
 
-My interests include:
-
-- 🐧 Linux System Administration
-- 🛡️ Blue Team & SOC Operations
-- 🔍 Network Monitoring & Packet Analysis
-- 🚩 Ethical Hacking & Penetration Testing
-- ⚡ Python & Bash Automation
-- 🌐 Networking & System Security
-
-I enjoy solving real-world security problems by building home labs, analyzing network traffic, automating administrative tasks, and continuously improving my cybersecurity skills.
+Mission:
+  Learn.
+  Build.
+  Secure.
+  Automate.
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 About Me
 
-### Operating Systems
+```python
+class Aimad:
 
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    def __init__(self):
 
-### Programming
+        self.role = "Cybersecurity Associate"
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        self.interests = [
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+            "Linux Administration",
+            "Ethical Hacking",
+            "Penetration Testing",
+            "SOC",
+            "Threat Hunting",
+            "Incident Response",
+            "Network Security",
+            "Cloud Security"
 
-### Version Control
+        ]
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        self.languages = [
 
-### Networking & Security
+            "Python",
+            "Bash",
+            "C#",
+            "C++",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SQL"
 
-- Wireshark
+        ]
+
+        self.goal = "Become a Professional Cybersecurity Engineer"
+
+me = Aimad()
+```
+
+---
+
+# 💻 Operating Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,mint,arch"/>
+
+</p>
+
+### Linux Distributions
+
+- 🐉 Kali Linux
+- 🐧 Ubuntu
+- 💚 Linux Mint
+- ⚡ Arch Linux
+- 🪶 Lubuntu
+- 🌀 Debian
+
+---
+
+# ⚙ Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,cs,cpp,html,css,js"/>
+
+</p>
+
+### Database
+
+- SQL
+- MySQL
+- SQLite
+
+---
+
+# 🔐 Cybersecurity Arsenal
+
+### Blue Team
+
 - Wazuh SIEM
-- ELK Stack
-- Firewall Configuration
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- SSH
-- Linux Security
-
----
-
-# 📂 Featured Projects
-
-## 🐧 Linux Package Hardening & Repair Tools
-
-Custom Bash and Python scripts for:
-
-- Dependency repair
-- Repository troubleshooting
-- System automation
-- Linux hardening
-
----
-
-## 📊 SOC Monitoring Lab
-
-Home SOC using:
-
-- Wazuh
 - ELK Stack
 - Log Analysis
 - Threat Detection
+- Incident Response
 - Security Monitoring
+- Network Monitoring
 
 ---
 
-## 🌐 Wireshark Network Analysis
+### Red Team
 
-Network investigations including:
-
-- Packet Analysis
-- Credential Leakage
-- Protocol Inspection
-- Incident Reports
-
----
-
-## 🚩 Ethical Hacking Labs
-
-Learning and practicing:
-
+- Reconnaissance
 - Enumeration
 - Vulnerability Assessment
 - Web Security
+- Active Directory
 - Privilege Escalation
-- Capture The Flag (CTFs)
+- Password Security
+- CTF Challenges
 
 ---
 
-# 🎓 Certifications & Achievements
+### Networking
 
-✅ Cisco Networking Academy Learn-A-Thon 2026
-
-✅ Cisco Introduction to Cybersecurity
-
-✅ Cisco Networking Essentials
-
-✅ Forage Cybersecurity Job Simulation
-
----
-
-# 📈 Currently Learning
-
-- Active Directory Security
-- SOC Analysis
-- Threat Hunting
-- Linux Hardening
-- Web Application Security
-- Ethical Hacking
-- Python for Security Automation
+- TCP/IP
+- DNS
+- DHCP
+- HTTP / HTTPS
+- SSH
+- FTP
+- SMTP
+- VLAN
+- VPN
 
 ---
 
-# 🎯 2026 Goals
+### Tools
 
-- Build professional cybersecurity projects
-- Complete more cybersecurity certifications
-- Contribute to open-source security tools
-- Publish write-ups and technical blogs
-- Land a Cybersecurity / SOC Analyst role
+- Wireshark
+- Nmap
+- Burp Suite
+- Metasploit
+- Hydra
+- Gobuster
+- Nikto
+- John the Ripper
+- Hashcat
+- Aircrack-ng
+- Netcat
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Current Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Aimadulislam&show_icons=true&theme=tokyonight)
+🛡 Linux Hardening Toolkit
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aimadulislam&theme=tokyonight)
+🔐 SOC Lab using Wazuh
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimadulislam&layout=compact&theme=tokyonight)
+🌐 Wireshark Incident Reports
+
+🐍 Python Security Scripts
+
+⚡ Bash Automation
+
+🚩 Hack The Box Labs
+
+---
+
+# 📜 Certifications
+
+🏆 Cisco Networking Academy Learn-A-Thon 2026
+
+🏆 Cisco Introduction to Cybersecurity
+
+🏆 Cisco Networking Essentials
+
+🏆 Forage Cybersecurity Job Simulation
+
+---
+
+# 📚 Currently Learning
+
+```text
+██████████░░░░░░░░  Linux Hardening
+
+████████░░░░░░░░░░  Active Directory
+
+███████░░░░░░░░░░░  Web Pentesting
+
+███████████░░░░░░░ Python Automation
+
+████████░░░░░░░░░░ Cloud Security
+
+██████████░░░░░░░░ Malware Analysis
+
+█████████░░░░░░░░░ Threat Hunting
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aimadulislam&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimadulislam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimadulislam&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Aimadulislam&theme=tokyonight&no-frame=true)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aimadulislam&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect
 
-💼 **LinkedIn**
+<p align="center">
 
-https://www.linkedin.com/in/aimad-ulislam/
+<a href="https://linkedin.com/in/aimad-ulislam">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-💻 **GitHub**
+<a href="https://github.com/Aimadulislam">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-https://github.com/Aimadulislam
+</p>
 
 ---
 
 <div align="center">
 
-### "Security is not a product, it's a process."
+## ⚡ "Hack the Planet. Defend the Future."
 
-— Bruce Schneier
-
-⭐ Thanks for visiting my profile!
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aimadulislam&theme=tokyonight"/>
 
 </div>
