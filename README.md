@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aimad-ul-Islam 👋
 
-<!--
-**Aimadulislam/Aimadulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity & System Administration Portfolio
+I am an aspiring Cybersecurity Associate focusing on secure system administration, network monitoring, and defensive security. I enjoy breaking down complex system dependency challenges, automating OS configurations, and analyzing network traffic.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Operating Systems:** Linux (Ubuntu/Debian system administration & troubleshooting)
+- **Networking & Security:** Wireshark, SIEM (Wazuh/ELK), Firewall Configuration
+- **Scripting & Automation:** Python 3, Bash, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Projects
+1. **[Linux Package Hardening & Repair Tools](#)** - Custom scripts for system automation and repository dependency fixes.
+2. **[SOC Monitoring Lab with Wazuh SIEM](#)** - Enterprise logging, event monitoring, and threat detection setup.
+3. **[Wireshark Network Incident Reports](#)** - Comprehensive deep-dives into protocol analysis and credential leaking.
+
+---
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aimad-ulislam/) or check out my repositories below!
