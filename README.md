@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aimad-ul-Islam 👋
+# Hi there, I'm Aimad ul Islam 👋
 
 ### 🛡️ Aspiring Cybersecurity Associate | Linux Administrator | Ethical Hacking Enthusiast
 
