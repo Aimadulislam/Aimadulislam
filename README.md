@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Aimad ul Islam
+# Hi 👋 I'm Aimad Ul Islam
 
-### 🛡️ Cybersecurity Associate | Linux Administrator | Ethical Hacking Enthusiast
+### 🛡️ Aspiring Cybersecurity Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity;Linux+Administrator;SOC+%7C+Blue+Team;Ethical+Hacker;Python+Developer;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity;Linux+Administration;Network+Security;Python+%26+Bash;Always+Learning..." />
 
 <img src="https://komarev.com/ghpvc/?username=Aimadulislam&label=Profile+Views&style=flat-square"/>
 
@@ -15,93 +15,76 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Aimad ul Islam
-Role: Cybersecurity Associate
+Name: Aimad Ul Islam
+Role: Aspiring Cybersecurity Engineer
 
-Specialization:
-  - Linux Administration
+Focus:
   - Defensive Security
-  - Ethical Hacking
-  - SOC Operations
+  - Linux Administration
   - Network Security
+  - Security Automation
 
 Currently Learning:
-  - Active Directory
-  - Threat Hunting
-  - Malware Analysis
-  - Cloud Security
+  - Ethical Hacking
+  - Python for Cybersecurity
+  - Bash Scripting
+  - Git & GitHub
 ```
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,arch"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,vscode"/>
 </p>
 
-**Linux:** Kali • Ubuntu • Debian • Arch • Linux Mint • Lubuntu
+**Technologies**
 
----
-
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,cs,cpp,html,css,js"/>
-</p>
-
-**Languages:** Python • Bash • C# • C++ • HTML • CSS • JavaScript • SQL
-
----
-
-### 🛡️ Security Tools
-
-```text
-Wireshark • Wazuh • ELK • Nmap • Burp Suite
-Metasploit • Hashcat • John • Hydra • Gobuster
-Git • Docker • VMware • VirtualBox
-```
+- 🐧 Linux
+- 🌐 Networking
+- 🔐 Cybersecurity
+- 🐍 Python
+- 💻 Bash
+- 🌱 Git & GitHub
 
 ---
 
 ## 📂 Current Projects
 
-- 🐧 Linux Hardening Toolkit
-- 🛡️ SOC Monitoring Lab (Wazuh)
-- 🌐 Wireshark Network Analysis
+- 🔐 Linux Security Labs
 - 🐍 Python Security Scripts
-- ⚡ Bash Automation
-- 🚩 Hack The Box & CTF Labs
+- ⚙️ Bash Automation
+- 🌐 Networking Labs
+- 🚩 CTF Write-ups *(Coming Soon)*
 
 ---
 
 ## 🏆 Certifications
 
-- Cisco Networking Academy Learn-A-Thon 2026
-- Cisco Introduction to Cybersecurity
-- Cisco Networking Essentials
-- Forage Cybersecurity Job Simulation
+- ✅ Cisco Introduction to Cybersecurity
+- ✅ Cisco Networking Essentials
+- ✅ Cisco Networking Academy Learn-A-Thon 2026
+- ✅ Forage Cybersecurity Job Simulation
 
 ---
 
 ## 🌐 Connect
 
 <p align="center">
-
-<a href="https://linkedin.com/in/aimad-ulislam">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/aimad-ulislam">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/Aimadulislam">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 </p>
+
+---
 
 <div align="center">
 
-> **"Learn • Build • Secure • Repeat."** 🚀
+### 💡 *"Learn • Build • Secure • Repeat."*
 
 </div>
