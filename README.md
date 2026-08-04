@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:0284C7&height=220&section=header&text=Aimad%20Ul%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Defensive%20Security%20%26%20Security%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0F19,50:111827,100:0284C7&amp;height=220&amp;section=header&amp;text=Aimad%20Ul%20Islam&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cybersecurity%20Engineer%20%7C%20Defensive%20Security%20and%20Automation&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Blue+Team+%26+Threat+Detection;DFIR+%7C+Memory+Forensics+%7C+SOC+Analysis;Linux+Hardening+%7C+Network+Security+%7C+Automation;Python+%2B+Bash+Security+Tooling" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Blue+Team+and+Threat+Detection;DFIR+%7C+Memory+Forensics+%7C+SOC+Analysis;Linux+Hardening+%7C+Network+Security+%7C+Automation;Python+%2B+Bash+Security+Tooling" />
 
 <br>
 
-<a href="https://aimadulislam.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-aimadulislam.dpdns.org-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Pakistan-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20DFIR-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=Aimadulislam&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
+<a href="https://aimadulislam.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-aimadulislam.dpdns.org-0EA5E9?style=for-the-badge&amp;logo=firefox&amp;logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Pakistan-1E293B?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Blue%20Team%20and%20DFIR-0F172A?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Aimadulislam&amp;style=for-the-badge&amp;color=0284C7&amp;label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -95,21 +95,6 @@ candidate:
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aimadulislam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0284C7" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimadulislam&layout=compact&theme=tokyonight&hide_border=true&title_color=0EA5E9" height="170" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimadulislam&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=0284C7&currStreakNum=0EA5E9" width="49%" />
-
-</div>
-
----
-
 ### 🌐 Let's Connect & Collaborate
 
 <div align="center">
@@ -121,7 +106,7 @@ candidate:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:111827,100:0B0F19&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0284C7,50:111827,100:0B0F19&amp;height=100&amp;section=footer" width="100%"/>
 
 <i>💡 Detect • Investigate • Secure • Automate.</i>
 
